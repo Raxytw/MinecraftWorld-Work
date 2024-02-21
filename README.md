@@ -12,3 +12,6 @@
 
 ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/Raxytw/MinecraftWorld-Work.svg?style=for-the-badge&labelColor=34a84d&color=268039) ![Badge Likes](https://img.shields.io/github/stars/Raxytw/MinecraftWorld-Work.svg?style=for-the-badge&labelColor=d0ab23&color=b0901e&logoColor=white&logo=Trustpilot)
 </div>
+
+版本： 1.20.1
+光影： iris v1.6.17 | BSL v8.2.07.1
