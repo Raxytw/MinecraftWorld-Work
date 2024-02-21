@@ -2,7 +2,7 @@
 
 # `MinecraftWorld-Work`
 
-<img src="" alt="MinecraftWorld-icon">
+<img src="./icon.png" alt="MinecraftWorld-icon">
 
 ---
 
